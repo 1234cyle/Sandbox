@@ -1,7 +1,13 @@
 #Programer: Cyle Krohling
-#Date Created: 12.18.25
-#Program: Sandbox
+#Date Created: 1.6.26
+#Program: Sandbox - Variables Branch
 
-print("\nHello World!")
+print("\nLets make some Variables!")
 
-print("\nI am here to make mistakes and learn form it!\n")
+Year = 2026
+FullName = "Cyle Krohling"
+FirstName = "Cyle"
+LastName = "Krohling"
+Age = 15
+
+print("\nMy name is",FullName + ", it is the year",Year,"and I am",Age,"years old.")
